@@ -1,0 +1,20 @@
+3Ten: long
+Tuoi: 1
+Gioi tinh: 1
+Que quan: vn
+He so luong: 3
+Ten: abc
+Tuoi: 2
+Gioi tinh: 1
+Que quan: zzz
+So ngay lam: 3
+Ten: ga
+Tuoi: 31
+Gioi tinh: 1
+Que quan: vn
+So ngay lam: 2
+Ten: a
+Tuoi: 1
+Gioi tinh: 1
+Que quan: a
+So ngay lam: 2
